@@ -1,4 +1,4 @@
-![impact](https://github.com/IMPACT-ORG/.github/blob/main/images/banner.jpg)
+![impact](https://github.com/IMPACT-ORG/.github/blob/main/images/Frame%209.png?raw=true)
 
 # IMPACT - 세상에 임팩트를 만드는 사람들의 모임
 
